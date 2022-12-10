@@ -1,0 +1,22 @@
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: "Open Source in Pharma policies"
+  #author: "Jane Doe"
+  date: "12/5/2022"
+  chapters:
+    - index.qmd
+    #- intro.qmd
+    - openpharma.qmd
+
+format:
+  html:
+    theme: cosmo
+
+execute:
+  freeze: auto
+
+editor: source
+

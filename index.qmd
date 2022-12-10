@@ -1,0 +1,6 @@
+# Purpose {.unnumbered}
+
+This repository is to collate policy documents for Open Source 
+in Pharma in a transperant way.
+
+The intent is not to host code in this repository.

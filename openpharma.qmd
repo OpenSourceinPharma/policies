@@ -1,0 +1,134 @@
+# `openpharma` 
+
+## Context
+
+This meeting was hosted in person at Roche, Basel.
+
+:::{.callout-warning}
+
+## DRAFT Policy
+
+This policy is in a draft state is currently not in place till 
+endorsed by the Open Source in Pharma board of directors.
+
+:::
+
+:::{.callout-tip icon=false}
+
+## Historical context
+
+* github.com/openpharma was initially created by Reinhold Koch (Roche - retired)
+* The first pan-company project was when Roche, Novartis and J&J collaborated in this org on `visR`
+* The org exists to share packages that do not belong to a working group specific Github 
+org, and the authors do not want to host in either their own company, or a personal,
+Github org
+* Governance was transferred to the Open Source in Pharma board in December 2022
+
+:::
+
+## Repository inclusion policy 
+
+* Requests for a repository must be for a project that has relevance to Pharma
+* The project must have a licence recognised as [in the spirit of open source by the Open Source Initiative](https://opensource.org/licenses/alphabetical)
+* The copyright holder of the repository must be stated (most commonly this is done within the license file)
+
+## Repository governance
+
+* The person requesting the repository willbe granted admin control of the repository, and they will be responsible for who 
+has access, at what level, as well as the content of the repository including both the codebase and moderating comments and discussion on the repository in github.com
+* Their is an expectation placed on repositories hosted on github.com/openpharma to be a safe place, and to not breach the code of 
+conduct
+
+## Code of conduct for repositories
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 2.1, available at
+[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+
+### The repository is open sourced
+
+* If the repository changes the license it is released under, it must remain a license endorsed by the
+[Open Source Initiative](https://opensource.org/licenses/alphabetical)
+* The codebase does not contain propriety code or any code that infringes on another organisations copyright
+
+### Behaviour that is not acceptable
+
+* The use of sexualized language or imagery, and sexual attention or advances of
+  any kind
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or email address,
+  without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
+
+### Enforcement Responsibilities
+
+Repository admins are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.
+
+### Enforcement Expectations
+
+Repository admins are expected to respond to unacceptable behaviour, with 
+a potential path of escalation being:
+
+#### Correction
+
+**Community Impact**: Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome in the community.
+
+**Consequence**: A private, written warning from community leaders, providing
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate. A public apology may be requested.
+
+#### Warning
+
+**Community Impact**: A violation through a single incident or series of
+actions.
+
+**Consequence**: A warning with consequences for continued behavior. No
+interaction with the people involved, including unsolicited interaction with
+those enforcing the Code of Conduct, for a specified period of time. This
+includes avoiding interactions in community spaces as well as external channels
+like social media. Violating these terms may lead to a temporary or permanent
+ban.
+
+#### Temporary Ban
+
+**Community Impact**: A serious violation of community standards, including
+sustained inappropriate behavior.
+
+**Consequence**: A temporary ban from any sort of interaction or public
+communication with the community for a specified period of time. No public or
+private interaction with the people involved, including unsolicited interaction
+with those enforcing the Code of Conduct, is allowed during this period.
+Violating these terms may lead to a permanent ban.
+
+#### Permanent Ban
+
+**Community Impact**: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior, harassment of an
+individual, or aggression toward or disparagement of classes of individuals.
+
+**Consequence**: A permanent ban from any sort of public interaction within the
+community.
+
+## Repository re-hosting policy
+
+The admins of repositories hosted on github.com/openpharma can either request 
+to be transferred to a new Github organisation, or implement the change 
+themselves, at any time. 
+
+The Open Source in Pharma board reserves the right to remove repositories that 
+fail to be in the spirit of open source for Pharma or are seen to not be 
+responding to breaches in the code of conduct for 
+repositories.
+
+Removing a repository requires endorsement by the board, and will follow the following 
+process. 
+
+1. Admins are contacted, and given 6 weeks to nominate a new github organisation to be 
+transferred to
+2. If no new organisation is nominated, the repository will be deleted
